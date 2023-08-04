@@ -1,3 +1,5 @@
+	CREATE DATABASE Ex_1_2;
+
 	USE Ex_1_2; 
 
   
@@ -70,7 +72,7 @@ Placa VARCHAR(7) NOT NULL,
 
   
 
-CREATE TABLE Aluguel 
+CREATE TABLE Alugueis
 ( 
 
 IdAluguel INT PRIMARY KEY IDENTITY, 
@@ -85,4 +87,4 @@ DataDevolucao DATE
 
 ) 
 
-DROP TABLE Aluguel
+DROP TABLE Alugueis
