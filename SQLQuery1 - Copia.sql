@@ -87,4 +87,3 @@ DataDevolucao DATE
 
 ) 
 
-DROP TABLE Alugueis
