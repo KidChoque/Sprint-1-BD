@@ -26,10 +26,10 @@ INSERT INTO Comentario(IdUsuario, IdEvento, Descricao,Exibe)
 VALUES(1,1,'SHOW DE PELOTA',1)
 
 
-SELECT * FROM TipoUsuario,
-SELECT * FROM TipoEvento,
-SELECT * FROM Instituicao,
-SELECT * FROM Usuario,
-SELECT * FROM Evento,
-SELECT * FROM PresencaEVento,
-SELECT * FROM Comentario,
+SELECT * FROM TipoUsuario
+SELECT * FROM TipoEvento
+SELECT * FROM Instituicao
+SELECT * FROM Usuario
+SELECT * FROM Evento
+SELECT * FROM PresencaEVento
+SELECT * FROM Comentario
